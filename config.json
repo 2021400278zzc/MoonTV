@@ -88,6 +88,14 @@
     "18": {
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "name": "18"
+    },
+    "155":{
+      "api":"https://155api.com/api.php/provide/vod",
+      "name":"155"
+    },
+    "百万资源站": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "百万资源站"
     }
   }
 }
