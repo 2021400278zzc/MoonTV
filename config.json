@@ -96,6 +96,22 @@
     "百万资源站": {
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "name": "百万资源站"
+    },
+    "桃花资源站": {
+      "api": "https://thzy1.me/api.php/provide/vod",
+      "name": "桃花资源站"
+    },
+    "奥斯卡资源站": {
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "name": "奥斯卡资源站"
+    },
+    "森林资源站": {
+      "api": "https://beiyong.slapibf.com/api.php/provide/vod",
+      "name": "森林资源站"
+    },
+    "奶香香资源站": {
+      "api": "https://naixxzy.com/api.php/provide/vod",
+      "name": "奶香香资源站"
     }
   }
 }
